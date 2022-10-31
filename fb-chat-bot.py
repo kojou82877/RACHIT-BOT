@@ -164,7 +164,7 @@ class ChatBot(Client):
                     sendQuery()
                 except:
                     pass
-            elif ("t3riii mkb" in msg):
+            elif ("t3riii mkc" in msg):
                 time.sleep(60)
                 reply = "[[ :) '' #T9TT0 KII M99 K0 UTH99 K9R P9T9K K3 CH0DN33 W9[L4 :D <3 (Y)??? :D (Y) <('') ❤ 😃[[ #UN5T0PP9BL3_F9DD3B994Z_H3NRY 09 FIIR33 ((Y)) [9]____ ^(_=_)^ (Y) :V<('') [[-----------  #F33L UR D9D KIDZ (( H3NRY H3R3 :D (Y) (Y)_____}} (Y) :V 😈 🔥^^ ]]"
                 sendMsg()
